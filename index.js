@@ -79,7 +79,7 @@ function buttonAnimation(currentKey) {
 
     var activeButton = document.querySelector("." + currentKey);
 
-    // Addinf Animations with JavaScript
+    // Adding Animations with JavaScript
     //Add a class from the CSS style to the variable activeButton so it is applied when key is pressed
     activeButton.classList.add("pressed");
 
