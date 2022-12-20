@@ -1,6 +1,6 @@
 # Drum-Kit
  
-This is a project part of a course on Udemy - The Complete Web Development Bootcamp 2023. It is a simple application where the user can play drum kit by 
+This is a project part of a course on Udemy - The Complete Web Development Bootcamp 2023 By Angela Yu. It is a simple application where the user can play drum kit by 
 using the mouse click or typing the key words on the keyboard. Every word has a different sound and it was used JavaScript Event listeners and Animations to achieve the outcome.
 
 [🔗 Click here to access it]()
