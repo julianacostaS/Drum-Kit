@@ -5,14 +5,11 @@ using the mouse click or typing the key words on the keyboard. Every word has a 
 
 
 <p align="center">
- <img alt="DiceGame" src="https://user-images.githubusercontent.com/49543157/207240607-d907798e-403a-4161-b4f5-7bd1ffa96210.png" width="100%">
+ <img alt="DiceGame" src="https://user-images.githubusercontent.com/49543157/208554283-32210688-d7e3-4f0f-9868-28bb10817066.png" width="100%">
 </p>
 
 <br>
 
-<p align="center">
-  <img alt="DiceDraw" src="https://user-images.githubusercontent.com/49543157/207240447-e02815e3-151f-418d-b6f0-a5a201025f40.png" width="100%">
-</p>
 
 ## 🚀 Technologies
 
